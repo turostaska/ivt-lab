@@ -14,6 +14,8 @@ public interface SpaceShip {
   */
   public boolean fireLaser(FiringMode firingMode);
 
+  public isBlackColoured;
+
   /**
   * Fires the torpedo stores of the ship
   *
